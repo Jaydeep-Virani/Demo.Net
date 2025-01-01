@@ -22,7 +22,11 @@
     <br />
 </div>
 <div style="margin-left: 520px">
-    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="ADD" />
+    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="ADD" />&nbsp;&nbsp;&nbsp;
+    <asp:Button ID="Button2" runat="server" Text="Sub" OnClick="Button2_Click" />&nbsp;&nbsp;&nbsp;
+     <asp:Button ID="Button3" runat="server" Text="Mul" OnClick="Button3_Click" />&nbsp;&nbsp;&nbsp;
+     <asp:Button ID="Button4" runat="server" Text="Div" OnClick="Button4_Click" />&nbsp;&nbsp;&nbsp;<br/>
+    <asp:Button runat="server" Text="Reset" OnClick="Unnamed1_Click" Width="196px" />
 </div>
 <div style="margin-left: 520px">
     <asp:Label ID="Label3" runat="server"></asp:Label>
