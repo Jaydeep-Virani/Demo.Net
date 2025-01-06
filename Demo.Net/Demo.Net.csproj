@@ -71,6 +71,10 @@
     <Content Include="App_Data\Database1_log.ldf">
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
+    <Content Include="Assignment1%28q1%29.aspx" />
+    <Content Include="Assignment1%28q2%29.aspx" />
+    <Content Include="Assignment1%28q3%29.aspx" />
+    <Content Include="Assignment1%28q4%29.aspx" />
     <Content Include="AutoPostBack.aspx" />
     <Content Include="MasterPage.aspx" />
     <Content Include="Web With Master.aspx" />
@@ -81,6 +85,34 @@
     <Content Include="WebForm4.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assignment1%28q1%29.aspx.cs">
+      <DependentUpon>Assignment1%28q1%29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment1%28q1%29.aspx.designer.cs">
+      <DependentUpon>Assignment1%28q1%29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment1%28q2%29.aspx.cs">
+      <DependentUpon>Assignment1%28q2%29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment1%28q2%29.aspx.designer.cs">
+      <DependentUpon>Assignment1%28q2%29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment1%28q3%29.aspx.cs">
+      <DependentUpon>Assignment1%28q3%29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment1%28q3%29.aspx.designer.cs">
+      <DependentUpon>Assignment1%28q3%29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment1%28q4%29.aspx.cs">
+      <DependentUpon>Assignment1%28q4%29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment1%28q4%29.aspx.designer.cs">
+      <DependentUpon>Assignment1%28q4%29.aspx</DependentUpon>
+    </Compile>
     <Compile Include="AutoPostBack.aspx.cs">
       <DependentUpon>AutoPostBack.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
