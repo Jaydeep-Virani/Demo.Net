@@ -77,6 +77,7 @@
     <Content Include="Assignment1%28q4%29.aspx" />
     <Content Include="AutoPostBack.aspx" />
     <Content Include="MasterPage.aspx" />
+    <Content Include="multicontroller.aspx" />
     <Content Include="Web With Master.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
@@ -126,6 +127,13 @@
     </Compile>
     <Compile Include="MasterPage.aspx.designer.cs">
       <DependentUpon>MasterPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="multicontroller.aspx.cs">
+      <DependentUpon>multicontroller.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="multicontroller.aspx.designer.cs">
+      <DependentUpon>multicontroller.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site1.Master.cs">
