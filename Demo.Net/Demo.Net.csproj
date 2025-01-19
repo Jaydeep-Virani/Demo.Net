@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Ads.xml" />
     <Content Include="App_Data\Database1.mdf" />
     <Content Include="App_Data\Database1_log.ldf">
       <DependentUpon>Database1.mdf</DependentUpon>
@@ -75,7 +76,13 @@
     <Content Include="Assignment1%28q2%29.aspx" />
     <Content Include="Assignment1%28q3%29.aspx" />
     <Content Include="Assignment1%28q4%29.aspx" />
+    <Content Include="Assignment2%28q1%29.aspx" />
+    <Content Include="Assignment2%28q2%29.aspx" />
+    <Content Include="Assignment2%28q3%29.aspx" />
     <Content Include="AutoPostBack.aspx" />
+    <Content Include="Images\ad1.jpg" />
+    <Content Include="Images\ad2.jpg" />
+    <Content Include="Images\ad3.jpg" />
     <Content Include="MasterPage.aspx" />
     <Content Include="multicontroller.aspx" />
     <Content Include="Web With Master.aspx" />
@@ -113,6 +120,27 @@
     </Compile>
     <Compile Include="Assignment1%28q4%29.aspx.designer.cs">
       <DependentUpon>Assignment1%28q4%29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment2%28q1%29.aspx.cs">
+      <DependentUpon>Assignment2%28q1%29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment2%28q1%29.aspx.designer.cs">
+      <DependentUpon>Assignment2%28q1%29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment2%28q2%29.aspx.cs">
+      <DependentUpon>Assignment2%28q2%29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment2%28q2%29.aspx.designer.cs">
+      <DependentUpon>Assignment2%28q2%29.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment2%28q3%29.aspx.cs">
+      <DependentUpon>Assignment2%28q3%29.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment2%28q3%29.aspx.designer.cs">
+      <DependentUpon>Assignment2%28q3%29.aspx</DependentUpon>
     </Compile>
     <Compile Include="AutoPostBack.aspx.cs">
       <DependentUpon>AutoPostBack.aspx</DependentUpon>
@@ -188,6 +216,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Uploads\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
