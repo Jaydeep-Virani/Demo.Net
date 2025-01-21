@@ -1,56 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\D2D\\Sem - 6\\Demo.Net\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\assignment2(q3).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment2(q3).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\assignment2(q3).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment2(q3).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\assignment2(q2).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment2(q2).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\assignment2(q2).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment2(q2).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\ads.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\ads.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\assignment2(q1).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment2(q1).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\assignment2(q1).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment2(q1).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\multicontroller.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\multicontroller.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\multicontroller.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\multicontroller.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\web with master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\web with master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -58,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,162 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Assignment2(q3).aspx.cs",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q3).aspx.cs",
-              "RelativeDocumentMoniker": "Demo.Net\\Assignment2(q3).aspx.cs",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q3).aspx.cs",
-              "RelativeToolTip": "Demo.Net\\Assignment2(q3).aspx.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowCsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T06:18:05.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Assignment2(q3).aspx",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q3).aspx",
-              "RelativeDocumentMoniker": "Demo.Net\\Assignment2(q3).aspx",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q3).aspx",
-              "RelativeToolTip": "Demo.Net\\Assignment2(q3).aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-19T06:13:49.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Assignment2(q2).aspx.cs",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q2).aspx.cs",
-              "RelativeDocumentMoniker": "Demo.Net\\Assignment2(q2).aspx.cs",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q2).aspx.cs",
-              "RelativeToolTip": "Demo.Net\\Assignment2(q2).aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T06:04:15.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Assignment2(q2).aspx",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q2).aspx",
-              "RelativeDocumentMoniker": "Demo.Net\\Assignment2(q2).aspx",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q2).aspx",
-              "RelativeToolTip": "Demo.Net\\Assignment2(q2).aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-19T06:03:01.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Assignment2(q1).aspx.cs",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q1).aspx.cs",
-              "RelativeDocumentMoniker": "Demo.Net\\Assignment2(q1).aspx.cs",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q1).aspx.cs",
-              "RelativeToolTip": "Demo.Net\\Assignment2(q1).aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T05:21:26.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ads.xml",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Ads.xml",
-              "RelativeDocumentMoniker": "Demo.Net\\Ads.xml",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Ads.xml",
-              "RelativeToolTip": "Demo.Net\\Ads.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-01-19T05:20:42.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Assignment2(q1).aspx",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q1).aspx",
-              "RelativeDocumentMoniker": "Demo.Net\\Assignment2(q1).aspx",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q1).aspx",
-              "RelativeToolTip": "Demo.Net\\Assignment2(q1).aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-19T05:17:27.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Web.config",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Web.config",
-              "RelativeDocumentMoniker": "Demo.Net\\Web.config",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Web.config",
-              "RelativeToolTip": "Demo.Net\\Web.config",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-18T05:21:18.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "multicontroller.aspx.cs",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\multicontroller.aspx.cs",
-              "RelativeDocumentMoniker": "Demo.Net\\multicontroller.aspx.cs",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\multicontroller.aspx.cs",
-              "RelativeToolTip": "Demo.Net\\multicontroller.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T04:53:21.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "multicontroller.aspx",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\multicontroller.aspx",
-              "RelativeDocumentMoniker": "Demo.Net\\multicontroller.aspx",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\multicontroller.aspx",
-              "RelativeToolTip": "Demo.Net\\multicontroller.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-18T04:43:27.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Web With Master.aspx",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Web With Master.aspx",
-              "RelativeDocumentMoniker": "Demo.Net\\Web With Master.aspx",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Web With Master.aspx",
-              "RelativeToolTip": "Demo.Net\\Web With Master.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-16T12:59:13.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Site1.Master",
-              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Site1.Master",
-              "RelativeDocumentMoniker": "Demo.Net\\Site1.Master",
-              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Site1.Master",
-              "RelativeToolTip": "Demo.Net\\Site1.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-16T12:56:45.673Z",
-              "EditorCaption": ""
             }
           ]
         }
