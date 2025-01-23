@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\D2D\\Sem - 6\\Demo.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\login(hdfc)(p).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\login(hdfc)(p).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\login(hdfc)(p).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\login(hdfc)(p).aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|f:\\d2d\\sem - 6\\demo.net\\demo.net\\assignment3(q2).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment3(q2).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\multicontroller.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\multicontroller.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\assignment2(q3).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\assignment2(q3).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|F:\\D2D\\Sem - 6\\Demo.Net\\demo.net\\masterpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5D3E8DE9-D606-4FC9-BF18-343BF7757B3E}|Demo.Net\\Demo.Net.csproj|solutionrelative:demo.net\\masterpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment3(q2).aspx",
+              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment3(q2).aspx",
+              "RelativeDocumentMoniker": "Demo.Net\\Assignment3(q2).aspx",
+              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment3(q2).aspx",
+              "RelativeToolTip": "Demo.Net\\Assignment3(q2).aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T09:29:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "multicontroller.aspx",
+              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\multicontroller.aspx",
+              "RelativeDocumentMoniker": "Demo.Net\\multicontroller.aspx",
+              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\multicontroller.aspx",
+              "RelativeToolTip": "Demo.Net\\multicontroller.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T09:23:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login(HDFC)(P).aspx.cs",
+              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Login(HDFC)(P).aspx.cs",
+              "RelativeDocumentMoniker": "Demo.Net\\Login(HDFC)(P).aspx.cs",
+              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Login(HDFC)(P).aspx.cs",
+              "RelativeToolTip": "Demo.Net\\Login(HDFC)(P).aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:18:10.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login(HDFC)(P).aspx",
+              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Login(HDFC)(P).aspx",
+              "RelativeDocumentMoniker": "Demo.Net\\Login(HDFC)(P).aspx",
+              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Login(HDFC)(P).aspx",
+              "RelativeToolTip": "Demo.Net\\Login(HDFC)(P).aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T09:18:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assignment2(q3).aspx",
+              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q3).aspx",
+              "RelativeDocumentMoniker": "Demo.Net\\Assignment2(q3).aspx",
+              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\Assignment2(q3).aspx",
+              "RelativeToolTip": "Demo.Net\\Assignment2(q3).aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T09:03:59.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterPage.aspx",
+              "DocumentMoniker": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\MasterPage.aspx",
+              "RelativeDocumentMoniker": "Demo.Net\\MasterPage.aspx",
+              "ToolTip": "F:\\D2D\\Sem - 6\\Demo.Net\\Demo.Net\\MasterPage.aspx",
+              "RelativeToolTip": "Demo.Net\\MasterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-22T08:45:57.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

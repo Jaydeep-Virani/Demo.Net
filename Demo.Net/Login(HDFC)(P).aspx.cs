@@ -35,7 +35,7 @@ namespace Demo.Net
             else {
                 Response.Write("<script>alert('Invalid Username or Password')</script>");
             }
-          
+            con.Close();
         }
     }
 }
